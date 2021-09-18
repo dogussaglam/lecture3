@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Jul 16 17:40:26 2021
+
 
 @author: dogus
 
